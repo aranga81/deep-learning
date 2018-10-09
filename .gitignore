@@ -15,4 +15,4 @@ face_generation/data/
 */.floyd*
 
 /.project
-.idea/*
+*/.idea/*
